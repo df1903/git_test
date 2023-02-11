@@ -1,0 +1,22 @@
+* 0602eb0 organizing the author's name
+* f08953c Adding two paragraphs
+*   904043e resolution of conflicts in seasons of the year with date
+|\  
+| * d15dcef Adding seasons of year
+* | 2b68503 Adding seasons of year with date
+|/  
+*   8f199ee resolving merge main/html conflict in index.html document
+|\  
+| * 39deb45 Adding index.js to index.html
+* | 3313d2b Adding style.css to index.html
+|/  
+*   b014115 Merge branch 'js'
+|\  
+| * 9d0737f Creating index.js
+* | ff51bd0 Creating style.css
+* | 81db2c4 Creating the index.html file
+|/  
+* 06c76f4 third commit
+* e3e5494 Creating the repository's license
+* 0f8167a second commit
+* 45b5deb first commit

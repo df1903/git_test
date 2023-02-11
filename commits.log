@@ -1,0 +1,98 @@
+commit 0602eb0dbd2c8b0e1386f491a1384d4b49a7ce5b
+Author: Daniel Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 12:56:22 2023 -0500
+
+    organizing the author's name
+
+commit f08953c7f022a12ef62ffca53d1df81d11df1c83
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 12:31:11 2023 -0500
+
+    Adding two paragraphs
+
+commit 904043e8dd2f3422d8e6f3c8b30ffe5620fc7c7f
+Merge: 2b68503 d15dcef
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 12:26:17 2023 -0500
+
+    resolution of conflicts in seasons of the year with date
+
+commit 2b68503d12b0416e3772b7116844d933b84f6d18
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 12:07:11 2023 -0500
+
+    Adding seasons of year with date
+
+commit d15dcef88bcc2703eeaf216ccbf8813c55c36524
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 12:07:11 2023 -0500
+
+    Adding seasons of year
+
+commit 8f199eed0491cbf07bedd836373db5fdbf7df357
+Merge: 3313d2b 39deb45
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 11:28:05 2023 -0500
+
+    resolving merge main/html conflict in index.html document
+
+commit 39deb452865d90cc9613b1cd00947c17e22e041c
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 11:19:35 2023 -0500
+
+    Adding index.js to index.html
+
+commit 3313d2b37253677c90f50e8874f8ae8fc33ca539
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 11:14:12 2023 -0500
+
+    Adding style.css to index.html
+
+commit b01411547d1e73ad6dd84588d7751e03715e55cc
+Merge: ff51bd0 9d0737f
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 11:01:14 2023 -0500
+
+    Merge branch 'js'
+
+commit 9d0737fce08f95aa6d50ee14983298b20e0dcd19
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 10:24:08 2023 -0500
+
+    Creating index.js
+
+commit ff51bd0a51dae44d21c72fb643deabe1a60264e8
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 10:18:57 2023 -0500
+
+    Creating style.css
+
+commit 81db2c40f66da3e31ec93028610ef9c33c452958
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 10:09:54 2023 -0500
+
+    Creating the index.html file
+
+commit 06c76f4f22a8de754a5e183fbcb97a89d30414f8
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Sat Feb 11 09:36:53 2023 -0500
+
+    third commit
+
+commit e3e549428894f827972eb105d82418d187eb882a
+Author: Danie Felipe Franco Rincón <102678213+df1903@users.noreply.github.com>
+Date:   Fri Feb 10 18:47:46 2023 -0500
+
+    Creating the repository's license
+
+commit 0f8167a7e9c5b62a310d76eb89888cd84b3799c6
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Fri Feb 10 18:40:03 2023 -0500
+
+    second commit
+
+commit 45b5deb17388aa0caaad23f37a9bfc56f7507c03
+Author: Danie Felipe Franco Rincón <daniel.franco.rincon@gmail.com>
+Date:   Fri Feb 10 18:29:35 2023 -0500
+
+    first commit
